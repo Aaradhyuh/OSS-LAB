@@ -1,0 +1,8 @@
+The program contains various functions. This first function (initalizeMinHeap) is used to create a empty min heap which will later be used to store the tree.
+swapMinHeapNodes swaps any 2 nodes in the min heap
+The next few functions just return the parent/child nodes of the current node.
+Functions to insert a element into the min heap is also available followed by the function to heapify the heap.
+This program takes its intput graph from a file, hence there is a function available to convert the text data in this file to the actual weighted graph.
+There are other helper functions also available to print the adjency matrix, print the menu etc.
+Then there is a function to finally calculate the shortest path between the given nodes.
+URL of the open source project used: https://github.com/beyzanc/shortest-path-finder-with-dijkstra.git
