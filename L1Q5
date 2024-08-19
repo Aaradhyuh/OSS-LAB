@@ -1,0 +1,3 @@
+URL of the repository used: https://gist.github.com/dan49075/b26ca718937635e2f7a7
+
+This program creates only the main function and within that uses a switch statement to calculate the different answers and then prints it using the printf function. 
